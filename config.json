@@ -1,0 +1,14 @@
+{
+    "token": "NjgwMTQzMjEwMjk4NzM2NzI5.Xk7mzQ.oR6pqJqgP3XE8I-NSFKGUZ1Ty2s",
+    "guildID": "669212942520156182",
+    "colors":
+    {
+        "blue": "#25bae7",
+        "red": "#980000",
+        "yellow": "#fff852",
+        "dark_purple": "#460061"
+    },
+    "nodes":[
+        { "host": "localhost", "port": "2333", "password": "youshallnotpass" }
+    ]
+}
